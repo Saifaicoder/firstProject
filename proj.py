@@ -1,3 +1,4 @@
 print('saif')
 #hshsshehhsbs
-gavsgs
+print("saif sama")
+import os
